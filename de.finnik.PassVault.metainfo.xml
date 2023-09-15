@@ -17,7 +17,7 @@
 	<content_rating type="oars-1.1" />
 	<screenshots>
 		<screenshot>
-			<image type="source">https://finnik.de/img/passvault/tut/desktop/main_frame_en.png</image>
+			<image type="source">https://raw.githubusercontent.com/de-finnik/PassVault/master/screenshots/main_frame.png</image>
 		</screenshot>
 	</screenshots>
 	<releases>
