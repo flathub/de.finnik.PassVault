@@ -17,6 +17,7 @@
 	<content_rating type="oars-1.1" />
 	<screenshots>
 		<screenshot type="default">
+			<caption>Main Window</caption>
 			<image type="source">https://finnik.de/img/passvault/tut/desktop/main_frame_en.png</image>
 		</screenshot>
 	</screenshots>
