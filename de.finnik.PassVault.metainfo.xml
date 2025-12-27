@@ -16,7 +16,7 @@
 	<launchable type="desktop-id">de.finnik.PassVault.desktop</launchable>
 	<content_rating type="oars-1.1" />
 	<screenshots>
-		<screenshot>
+		<screenshot type="default">
 			<image type="source">https://finnik.de/img/passvault/tut/desktop/main_frame_en.png</image>
 		</screenshot>
 	</screenshots>
